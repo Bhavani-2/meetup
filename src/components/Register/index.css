@@ -1,0 +1,48 @@
+.main-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 80vh;
+  align-items: center;
+}
+.heading1 {
+  font-size: 40px;
+  font-family: roboto;
+}
+.register-logo {
+  height: 400px;
+  width: 500px;
+}
+.register-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 0px;
+}
+.label {
+  font-size: 15px;
+  font-family: 'roboto';
+  color: #64748b;
+  margin-bottom: 10px;
+}
+.input {
+  background-color: transparent;
+  border: 1px solid #cbd5e1;
+  margin-bottom: 10px;
+  height: 25px;
+  width: 250px;
+  font-family: 'roboto';
+}
+.button {
+  background-color: #3b82f6;
+  color: white;
+  height: 30px;
+  width: 150px;
+  margin-top: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.para {
+  color: red;
+}

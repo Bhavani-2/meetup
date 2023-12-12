@@ -1,0 +1,8 @@
+.Header {
+  display: flex;
+  padding: 20px;
+  width: 100vw;
+}
+.logo {
+  height: 50px;
+}

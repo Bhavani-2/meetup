@@ -1,0 +1,15 @@
+.NotFound {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.notfoundImg {
+  height: 300px;
+}
+.NotFound-Head {
+  font-family: roboto;
+}
+.NotFoundPara {
+  font-family: roboto;
+}
